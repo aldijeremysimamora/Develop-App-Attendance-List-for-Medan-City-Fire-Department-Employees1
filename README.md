@@ -1,13 +1,15 @@
 # KP-24-705-A Develop App Attendance List for Medan City Fire Department Employees
 
 ## General Description
-Kami sedang membuat sebuah aplikasi absensi untuk pegawai atau petugas di Dinas Pemadam Kebakaran. Aplikasi ini dibuat untuk memudahkan proses pencatatan kehadiran atau absensi. Fitur-fitur yang terdapat pada aplikasi adalah pengumuman dan absensi karyawan, dimana pada fitur absensi karyawan memiliki kemampuan untuk mengunggah informasi terbaru tentang absensi jam masuk kerja dan jam pulang kerja. Fitur ini penting untuk meningkatkan komunikasi antara petugas dan memudahkan petugas untuk mengetahui informasi terbaru.
+Kami sedang membuat sebuah aplikasi dan website absensi untuk pegawai atau petugas di Dinas Pemadam Kebakaran. Aplikasi ini dibuat untuk memudahkan proses pencatatan kehadiran atau absensi. Fitur-fitur yang terdapat pada aplikasi adalah pengumuman dan absensi karyawan, dimana pada fitur absensi karyawan memiliki kemampuan untuk mengunggah informasi terbaru tentang absensi jam masuk kerja dan jam pulang kerja. Fitur ini penting untuk meningkatkan komunikasi antara petugas dan memudahkan petugas untuk mengetahui informasi terbaru.
 
 ## Features
 Fitur-fitur yang terdapat pada sistem aplikasi yaitu:
 
 - **Fitur Absensi**: Memudahkan pegawai untuk mencatat jam masuk dan keluar kerja.
-- **Fitur Berita/Pengumuman**: Menyediakan informasi terbaru dan pengumuman untuk pegawai.
+- **Fitur Berita/Pengumuman**: Menambahkan informasi terbaru dan pengumuman untuk pegawai pada aplikasi
+- **Fitur Menambahkan Kantor**: Admin dapat Menambahkan kantor untuk tiap pegawai
+- **Fitur Menambahkan Pegawai**: Admin dapat Menambahkan pegawai untuk setiap akun.
 
 ### Minimum Hardware Requirements
 
