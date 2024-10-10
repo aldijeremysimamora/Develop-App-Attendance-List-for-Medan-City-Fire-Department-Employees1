@@ -1,4 +1,4 @@
-# KP-24-705-A Develop App Attendance List for Medan City Fire Department Employees
+# KP-24-705-A Pengembangan Aplikasi Presensi Karyawan Dinas Pemadam Kebakaran Kota Medan berbasis Mobile
 
 ## General Description
 Kami sedang membuat sebuah aplikasi dan website absensi untuk pegawai atau petugas di Dinas Pemadam Kebakaran. Aplikasi ini dibuat untuk memudahkan proses pencatatan kehadiran atau absensi. Fitur-fitur yang terdapat pada aplikasi adalah pengumuman dan absensi karyawan, dimana pada fitur absensi karyawan memiliki kemampuan untuk mengunggah informasi terbaru tentang absensi jam masuk kerja dan jam pulang kerja. Fitur ini penting untuk meningkatkan komunikasi antara petugas dan memudahkan petugas untuk mengetahui informasi terbaru.
